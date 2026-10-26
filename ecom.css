@@ -57,6 +57,7 @@
 }
 .hd{
     text-transform: capitalize;
+    text-decoration: underline;
     font-size: 65px;
     margin: 10px;
     color: blue;
@@ -80,6 +81,7 @@
     border-radius: 15px;
     background-color: grey;
     color: red;
+     text-decoration: underline;
 }
 .parent{
      /* border: 2px solid black; */
